@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EndToEndAPISuite">
+    <test name="EndToEndScenario">
+        <classes>
+            <class name="EndToEnd"/>
+        </classes>
+    </test>
+</suite>
